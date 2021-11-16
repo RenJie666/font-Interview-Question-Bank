@@ -1,37 +1,158 @@
-## Welcome to GitHub Pages
+# 0-前端规划
 
-You can use the [editor on GitHub](https://github.com/RenJie666/font-Interview-Question-Bank/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1-技术能力模型
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 领域知识【实践中学习】；
+2. 方向知识【建立知识体系 追本溯源】：比如前端，后端....
+3. 底层能力
+   1. 编程能力（解决问题实现功能）
+   2. 架构能力（技术和业务）
+   3. 工程能力（技术团队协作管理）=【刻意练习】
+4. 学习方法：
+   1. 追本溯源：【源头-最早论文杂志实现案例】【标准和文档-】【大师-创始人】          
+   2. 建立体系：从功能实际开发中
+   3. why-root：费曼学习法+第一性原理
+5. 如何成为高手？
+   1. 知识》项目》面试题》总结
+   2. 刻意练习；任务分解	
 
-### Markdown
+## 2-职业规划
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 3-前端能力体系
 
-```markdown
-Syntax highlighted code block
+| 一，专业技能；二，加分项
 
-# Header 1
-## Header 2
-### Header 3
+### 一，专业技能
 
-- Bulleted
-- List
+1. 编码能力：基础扎实，有扎实的数据结构与算法功底
+2. 基础能力：扎实的计算机基础知识；较强的逻辑理解能力和学习理解能力；理解设计模式
+3. 精通技术：
+   1. html5；css3；w3c标准；常见协议；浏览器相关(兼容性)【切图能力】
+   2. JavaScript，es6，Ajax，DOM，前后端交互技术；掌握卖你想对象思想
+      1. 库+ui框架：jQuery/kissy/zepto/bootstrap等常见的js库有丰富的经验和深入理解，完整的源码阅读最好。
+   3. vuejs框架+nodejs；react框架+typescript
+   4. 移动端和混合hybrid web开发，适配及性能调优
+   5. 小程序，微信公众号，跨端小程序uni-app等
+   6. 工程化部分：自动构建工具（grunt gulp browserify webpack）
+      1. 模块化，组件化，oop，mvc实践有自己的理解
+   7. 性能优化：发包压缩；资源懒加载；CDN加速等，熟悉SEO优化更佳
+4. 软性能力：分析和解决问哪里能力；沟通协作；抗压能力
 
-1. Numbered
-2. List
+### 二，加分项
 
-**Bold** and _Italic_ and `Code` text
+1. 对产品和技术有自己的理解，有广告，电商等领域经验
+2. 有大型web系统设计，前端性能，可访问性，可维护性等方面的实践经验
+3. 有自己的技术博客【GitHub 博客..】
+4. 数据结构与算法功底。
+5. 熟练使用一个非前端语言（nodejs/python/php/Java等），并有项目经验
+6. 熟悉linux，nginx等服务器配置
+7. 团队管理经验，能hold住10人高级研发团队
+8. 计算机本科以上学历
+9. 项目
+   1. 后台管理系统
+   2. 移动项目
 
-[Link](url) and ![Image](src)
+
+
+
+
+
+
+------
+
+# 一，面试准备
+
+> **【知识梳理】》【项目练习】》【面试刷题】》【总结复盘】**
+>
+> 1. jd描述分析：市场需求是什么
+> 2. 业务分析：看这个公司是做什么产品的？此岗位公司需要什么？想要达到什么效果？
+> 3. 技术栈准备：根据需求准备自己的技术吻合。
+
+## 1-JD描述分析
+
+1. ### jd描述分析
+
+2. ### 业务分析
+
+## 2-技术栈准备
+
+
+
+## 3-项目准备
+
+## 4-自我介绍
+
+## 5-答题技巧
+
+```JavaScript
+一，整理基础知识；二，开始刷题(按照知识类型分类顺序)三，应用总结
+【刻意练习】按照知识顺序刷题 类型总结
+审题：阅读》分析=问的什么；
+分析：why，怎么解决？用那些知识点？考的目的是什么 场景重要性？
+答题：解决思路方式有几种？，优缺点
+总结：背后考点；应用实际开发场景；举一反三，原理
+
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 6-简历准备
 
-### Jekyll Themes
+# 二，【技术面】
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RenJie666/font-Interview-Question-Bank/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> 编码能力【功能实现】+架构能力【业务设计】+工程能力【团队管理】
+>
+> 分类：技术题+场景题+脑力题
 
-### Support or Contact
+## 一，基础部分
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+>  1-html+2-css；3-JavaScript；4-框架vue+nodejs；react+typescript  5-浏览器；6-前后端交互
+
+### 1-html+css
+
+1. 页面布局类
+
+### 2-JavaScript
+
+### 2-1-库+ui框架
+
+### 3-3大框架 
+
+### 4-浏览器
+
+### 5-前后端交互
+
+## 二，工程化部分
+
+## 三，实践部分
+
+## 四，综合部分
+
+六，其他
+
+> - [ ] 
+> - [ ] 工程化部分：
+> - [ ] 实践部分：
+> - [ ] 综合能力：
+> - [ ] 其他：
+
+# 三，【业务面】
+
+# 三，【综合面】
+
+# 6-面试策略
+
+1. 尝试谈一次 而不是直接答应
+2. 先出价者劣势
+3. 去想面试的公司之前，先面几家，一个是热身，一个是练习谈钱技巧
+   1. 比如你现在k，那说明你需要学习，现在不适合面试
+   2. 如果有给你15k的，以此为准，谈下一份工作
+   3. 再去滴滴百度面试
+4. 建议下课，更新简历，投几个面一下
+   1. 查缺补漏
+5. 谈判的来的，都是纯利润
+   1. 比如hr给你2w，都是多年的辛苦编程和熬夜写出来的
+   2. 如果通过谈判，谈到23k，多出的3k，性价比高，纯利润，动动嘴皮的事
+   3. 多谈出8k，来回大概墨迹了三四回，耗时五六天。
+
+# 7-其他
+
